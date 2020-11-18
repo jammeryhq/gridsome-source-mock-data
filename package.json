@@ -1,0 +1,12 @@
+{
+  "name": "@jammeryhq/source-mock-data",
+  "version": "1.0.0",
+  "description": "Gridsome source to generate mock data based on your own definition",
+  "main": "index.js",
+  "repository": "https://www.github.com/jammeryhq/source-mock-data",
+  "author": "JammeryHQ",
+  "license": "MIT",
+  "dependencies": {
+    "mocker-data-generator":"^2.10.0"
+  }
+}

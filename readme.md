@@ -1,4 +1,19 @@
-# Introduction
+<div align="center">
+
+<a href="https://www.jammeryhq.com" title="JammeryHQ" target="_blank">
+
+  <img src="https://jammeryhq.com/jammeryhq.png" width="128" />
+  
+</a>
+
+<p>
+Fast-track your JAMstack development & learning
+</p>
+</div>
+
+<hr />
+
+# About this source plugin
 
 Simple gridsome source plugin which uses 
 
